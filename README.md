@@ -32,8 +32,8 @@
 1. Clone the Repository
 
 ```bash
-git clone <>
-cd
+git clone https://github.com/DevManoj96/OptiVoid.git
+cd OptiVoid
 ```
 
 2. Run the Program
