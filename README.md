@@ -32,7 +32,7 @@
 1. Clone the Repository
 
 ```bash
-git clone https://github.com/DevManoj96/OptiVoid.git
+git clone https://github.com/VoinFeix/OptiVoid.git
 cd OptiVoid
 ```
 
